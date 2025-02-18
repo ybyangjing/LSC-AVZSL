@@ -9,7 +9,7 @@ This is the official PyTorch code for the paper:
 **Xiaoyng Li**, **Jing Yang***, **Yuling Chen**, **Wei Zhang**,  **Xiaoli Ruan**, **Chengjiang Li and Zhidong Su**.
 
 <p align="center">
-  <img src="img/introduction.jpg"alt="" align=center />
+  <img src="fig2.png"alt="" align=center />
 </p>
 
 ## Requirements
